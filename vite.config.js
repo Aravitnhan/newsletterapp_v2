@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/newsletter-app_v2'
+  base: '/newsletterapp_v2'
 })

@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aravitnhan.github.io/newsletter-app_v2",
+  "homepage": "https://Aravitnhan.github.io/newsletterapp_v2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
