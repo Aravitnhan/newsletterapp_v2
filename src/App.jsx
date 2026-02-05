@@ -147,9 +147,7 @@ function App() {
       {
         image: "https://etimg.etb2bimg.com/photo/126300389.cms",
         title: "Copper",
-        description: `
-        Copper futures dropped more than 3% to around $6 per pound on Friday, reversing a sharp rally from the previous session amid a broad retreat across the metals complex.
-      `,
+        description: `Copper futures dropped more than 3% to around $6 per pound on Friday, reversing a sharp rally from the previous session amid a broad retreat across the metals complex.`,
         url: "https://tradingeconomics.com/commodity/copper",
         buttonText: "Read More"
       },
