@@ -69,7 +69,7 @@ function App() {
       //   description: "Fastest Shanghai delivery"
       // }
       {
-        url: "https://www.guizhouwirerope.com/",
+        url: "http://www.zhengyu-sh.com/",
         image: ad_6,
         title: "",
         description: "Fastest Shanghai delivery"
