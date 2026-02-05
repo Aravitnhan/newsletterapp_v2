@@ -91,7 +91,7 @@ const NewTab = () => {
             {
                 url: "https://www.guizhouwirerope.com/",
                 image: ad_6,
-                title: "",
+                title: "http://www.zhengyu-sh.com/",
                 description: "Fastest Shanghai delivery"
             }
         ],
